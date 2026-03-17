@@ -14,6 +14,8 @@ A lightweight GUI tool for visually trimming WAV and MP3 audio files. Load a fil
 - **Save As dialog** for export with format auto-detection (WAV/MP3)
 - Fast preview playback using pre-cached raw audio bytes
 
+<img width="949" height="730" alt="image" src="https://github.com/user-attachments/assets/e786450e-25bd-4426-93d7-55cef1b54370" />
+
 ## Dependencies
 
 ```
